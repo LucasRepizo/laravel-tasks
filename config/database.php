@@ -49,7 +49,7 @@ return [
             'host' => env('DB_HOST', 'msdocs-laravel-mysql-xyz.mysql.database.azure.com'),
             'port' => env('DB_PORT', '3306'),
             'database' => env('DB_DATABASE', 'msdocs-laravel-mysql-xyz-database'),
-            'username' => env('DB_USERNAME', 'uqzcxdtfyu'),
+            'username' => env('DB_USERNAME', 'uqzcxdtfy'),
             'password' => env('DB_PASSWORD', 'R4VTM23D1WF104PL$'),
             'unix_socket' => env('DB_SOCKET', ''),
             'charset' => 'utf8mb4',
